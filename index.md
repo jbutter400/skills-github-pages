@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Homepage
 ---
-
+Welcome to Picks Place. 0-0 all time.
